@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Daniel, a 16 year old A Level Student interested in machine learning, data science and analysis!
 
 <!--
 **danjpilk/danjpilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
